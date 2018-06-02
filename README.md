@@ -1,5 +1,11 @@
 # teste_git_udemy 123
 
+<p align="center">
+  <a target="_blank" href="https://github.com/anderson-sart/teste_git_udemy/">
+    <img src="./intro.gif"/>
+  </a>
+</p>
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget arcu et sapien aliquam accumsan non at ligula. Sed laoreet purus diam, ac suscipit metus tristique id. Aenean faucibus cursus eros, in varius ante commodo convallis. Duis consectetur, est vel maximus rhoncus, orci lacus cursus nibh, in malesuada nisi ipsum quis lorem. Mauris eget volutpat urna. Integer dictum justo lectus, at finibus nibh imperdiet accumsan. Proin quis metus nibh. Praesent cursus quam libero, in ullamcorper orci congue non. Donec aliquam placerat neque, gravida interdum turpis eleifend vitae. Phasellus sed sem odio. Maecenas non magna ex.
 
 Mauris in ipsum ornare, sodales magna id, egestas eros. Etiam et nulla fermentum, porttitor ex ac, maximus sapien. Praesent at libero sed metus venenatis bibendum. Ut fermentum tortor massa. Aliquam sed justo eget magna aliquam mollis. Aliquam gravida enim eu ligula aliquam, at tempor sapien dignissim. Vivamus libero mauris, ultricies et purus ac, venenatis pulvinar nisl. Sed in scelerisque nulla. Aliquam eget nibh neque.
